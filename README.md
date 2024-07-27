@@ -80,6 +80,7 @@ npm start
 
 ## Estrutura do Projeto
 
+```plaintext
 engenium-tcc2/
 ├── backend/                # Código-fonte do backend
 │   ├── controllers/        # Controladores da aplicação
@@ -101,6 +102,7 @@ engenium-tcc2/
 │
 ├── README.md               # Documentação do projeto
 └── ...                     # Outros arquivos e diretórios do projeto
+
 
 
 ## Licença
