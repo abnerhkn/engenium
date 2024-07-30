@@ -1,0 +1,14 @@
+.dado {
+  display: inline-block;
+  padding: 20px;
+  transition: transform 1s;
+}
+
+.dado.rolling {
+  transform: rotate(360deg);
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+}
