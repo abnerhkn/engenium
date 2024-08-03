@@ -4,7 +4,7 @@ import '../styles/Card2.css';
 import Button from '../components/Button';
 import Modal from '../components/Modal';
 
-function App() {
+function Card2() {
   const [categories, setCategories] = useState([]);
   const [formData, setFormData] = useState({
     category: '',
@@ -227,4 +227,4 @@ function App() {
   );
 }
 
-export default App;
+export default Card2;
