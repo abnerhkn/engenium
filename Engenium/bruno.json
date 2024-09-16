@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "Engenium",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
